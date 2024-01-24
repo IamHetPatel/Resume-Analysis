@@ -1,4 +1,5 @@
-#RESUME ANALYSER USING NLP AND ML#
+## [RESUME ANALYSER USING NLP AND ML]
+
 An advanced Resume Analyzer that employs Natural Language Processing (NLP) to streamline the candidate screening process. 
 Utilizing algorithms, the system extracts pivotal information from resumes, such as skills and experience, and employs ML model for precise job relevance categorization. 
 The architectural framework encompasses essential stages, including data preprocessing, feature extraction, and model training. 
