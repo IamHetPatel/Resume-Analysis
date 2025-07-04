@@ -2,7 +2,9 @@
 
 An innovative Resume Analyzer leveraging cutting-edge Natural Language Processing (NLP) and Machine Learning (ML) techniques to revolutionize the candidate screening process. By harnessing algorithms, this tool extracts vital information from resumes, such as skills and experience, and utilizes ML models for precise job relevance categorization. The architecture encompasses pivotal stages, including data preprocessing, feature extraction, and model training, ensuring accuracy and scalability. Evaluation results demonstrate commendable accuracy and scalability, with detailed case studies showcasing its practical applicability. The Resume Analyzer presents a transformative solution, enhancing objectivity and empowering informed hiring decisions in today’s competitive job market.
 
-**Dataset Link:** [Download Dataset](https://drive.google.com/file/d/12Q7kE-wbab8w41zKRvkIRoyTXe2A641M/view?usp=sharing)
+
+## Research Paper
+[Springer Nature Link](https://link.springer.com/chapter/10.1007/978-981-97-9762-2_2)
 
 ## Overview
 
@@ -25,6 +27,8 @@ The Resume Analyzer is an advanced tool designed to streamline the candidate scr
 **Setup:** Follow the instructions in the accompanying Jupyter Notebook to set up the environment and execute the analysis pipeline.
 
 **Evaluation:** Evaluate the system's performance and explore its capabilities using the provided dataset and sample resumes.
+
+**Dataset Link:** [Download Dataset](https://drive.google.com/file/d/12Q7kE-wbab8w41zKRvkIRoyTXe2A641M/view?usp=sharing)
 
 ## Why it Matters
 
