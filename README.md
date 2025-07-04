@@ -1,10 +1,8 @@
+## [Research Paper (Springer Nature Link)](https://link.springer.com/chapter/10.1007/978-981-97-9762-2_2)
+
 # Resume Analyzer Using NLP and ML
 
 An innovative Resume Analyzer leveraging cutting-edge Natural Language Processing (NLP) and Machine Learning (ML) techniques to revolutionize the candidate screening process. By harnessing algorithms, this tool extracts vital information from resumes, such as skills and experience, and utilizes ML models for precise job relevance categorization. The architecture encompasses pivotal stages, including data preprocessing, feature extraction, and model training, ensuring accuracy and scalability. Evaluation results demonstrate commendable accuracy and scalability, with detailed case studies showcasing its practical applicability. The Resume Analyzer presents a transformative solution, enhancing objectivity and empowering informed hiring decisions in today’s competitive job market.
-
-
-## Research Paper
-[Springer Nature Link](https://link.springer.com/chapter/10.1007/978-981-97-9762-2_2)
 
 ## Overview
 
